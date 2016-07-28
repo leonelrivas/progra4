@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Progra4-Guia1\Progra4-Guia1\bin\Debug\Progra4-Guia1.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\Progra4-Guia1\Progra4-Guia1\bin\Debug\Progra4-Guia1.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Progra4-Guia1\Progra4-Guia1\bin\Debug\Progra4-Guia1.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Progra4-Guia1\Progra4-Guia1\obj\Debug\Progra4-Guia1.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\Progra4-Guia1\Progra4-Guia1\obj\Debug\Progra4_Guia1.Form1.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Progra4-Guia1\Progra4-Guia1\obj\Debug\Progra4_Guia1.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Progra4-Guia1\Progra4-Guia1\obj\Debug\Progra4-Guia1.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\Progra4-Guia1\Progra4-Guia1\obj\Debug\Progra4-Guia1.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Progra4-Guia1\Progra4-Guia1\obj\Debug\Progra4-Guia1.pdb
